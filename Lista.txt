@@ -4,4 +4,5 @@ Profesor
 Dani Gómez
 
 Alumnos
-Fernando José Segura Vaca
+Fernando Segura
+Otto May
